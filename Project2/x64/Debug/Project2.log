@@ -1,0 +1,12 @@
+﻿  Source.cpp
+c:\users\aurelionsole\source\repos\project2\project2\source.cpp(117): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\aurelionsole\source\repos\project2\project2\source.cpp(118): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\aurelionsole\source\repos\project2\project2\source.cpp(162): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\aurelionsole\source\repos\project2\project2\source.cpp(163): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\aurelionsole\source\repos\project2\project2\source.cpp(221): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\aurelionsole\source\repos\project2\project2\source.cpp(222): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\aurelionsole\source\repos\project2\project2\source.cpp(373): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\aurelionsole\source\repos\project2\project2\source.cpp(377): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\aurelionsole\source\repos\project2\project2\source.cpp(727): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\aurelionsole\source\repos\project2\project2\source.cpp(732): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Project2.vcxproj -> C:\Users\AurelionSole\source\repos\Project2\x64\Debug\Project2.exe
